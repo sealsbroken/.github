@@ -26,3 +26,9 @@ Ten adventures from counting to three up to sharing equally, in English and Russ
 - **Shipping**: `unengine` + `unmath` are all it takes; the Release iOS workflow tags and uploads to TestFlight.
 
 Start with `unengine`'s README; `tools/ios.sh sim` runs the app with `unmath` cloned next to it.
+
+## Community
+
+Read our [contribution guidelines](https://github.com/sealsbroken/.github/blob/main/CONTRIBUTING.md)
+and [Code of Conduct](https://github.com/sealsbroken/.github/blob/main/CODE_OF_CONDUCT.md).
+Contact: [lead@onym.app](mailto:lead@onym.app).
